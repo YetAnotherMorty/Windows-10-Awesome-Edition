@@ -1,2 +1,15 @@
-# Windows
-A Custom ISO build for Windows 10 with all the crap removed.
+# Windows 10 Awesome Edition
+A Custom ISO build for Windows 10 with all the crap removed. This Windows ISO removes all of the bullshit that comes with Windows 10. Read the **What I've Removed** section to see what I removed from this ISO. I made this because I was sick and tired of Windows 10 always acting like it controlled my hardware, so I gave the finger to microsoft, and learned how to make custom image files.
+
+_Note: This edition wouldn't be possible with out the work of all the prviacy aware tech-enthusiasts out there, so be sure to check out the sources portion of this readme to see my original sources!_
+
+## What I Removed
+This section goes through the various things that I've done to the Windows ISO to make it lighter and run better.
+
+**Version of Windows Used:**
+
+
+## Sources
+* [Chris Titus Tech - How to Make a Custom Windows 10 ISO](https://www.youtube.com/watch?v=R6XPff38iSc)
+* [Britec09 - How to Create a Custom Windows Image](https://www.youtube.com/watch?v=op6-HWg0gZ4)
+* [Crafting Computing - THIS is what Windows 10 should look like! - Custom Windows Image Tutorial](https://www.youtube.com/watch?v=PdKMiFKGQuc)
