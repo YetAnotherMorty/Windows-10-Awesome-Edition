@@ -2,6 +2,8 @@
 ![Windows 10 Awesome Edition Banner](https://github.com/TheArchyvist/Windows/blob/main/Assests/Windows%2010%20Awesome%20Edition.png)
 A Custom ISO build for Windows 10 with all the crap removed. This Windows ISO removes all of the bullshit that comes with Windows 10. Read the **What I've Removed** section to see what I removed from this ISO. I made this because I was sick and tired of Windows 10 always acting like it controlled my hardware, so I gave the finger to microsoft, and learned how to make custom image files.
 
+Don't trust this Custom ISO? Follow my step-by-step guide on the Wiki!
+
 _Note: This edition wouldn't be possible with out the work of all the prviacy aware tech-enthusiasts out there, so be sure to check out the sources portion of this readme to see my original sources!_
 
 ## What I Removed
