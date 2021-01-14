@@ -7,9 +7,13 @@ Don't trust this Custom ISO? Follow my [**step-by-step guide**](https://github.c
 _Note: This edition wouldn't be possible with out the work of all the prviacy aware tech-enthusiasts out there, so be sure to check out the sources portion of this readme to see my original sources!_
 
 ## What I Removed
-This section goes through the various things that I've done to the Windows ISO to make it lighter and run better.
+This section goes through the various things that I've done to the Windows ISO to make it lighter and run better. I did keep gaming in mind when creating this ISO, so I kept .NET 3.5 installed. I used [Major Geeks WinToolKit](https://www.majorgeeks.com/files/details/win_toolkit.html) Component Remover to remove a lot of the following useless components.
 
-**Version of Windows Used:**
+**Version of Windows Used: Windows 10 20H2**
+
+**Flavor of Widnows: Pro**
+
+
 
 
 ## Sources and Tools
