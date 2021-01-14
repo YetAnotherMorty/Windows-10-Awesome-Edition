@@ -16,3 +16,4 @@ This section goes through the various things that I've done to the Windows ISO t
 * [Chris Titus Tech - How to Make a Custom Windows 10 ISO](https://www.youtube.com/watch?v=R6XPff38iSc)
 * [Britec09 - How to Create a Custom Windows Image](https://www.youtube.com/watch?v=op6-HWg0gZ4)
 * [Crafting Computing - THIS is what Windows 10 should look like! - Custom Windows Image Tutorial](https://www.youtube.com/watch?v=PdKMiFKGQuc)
+* [The IT Bros - How to Convert ESD to WIM File on Windows 10?](https://theitbros.com/convert-windows-esd-file-to-windows-wim-file/)
