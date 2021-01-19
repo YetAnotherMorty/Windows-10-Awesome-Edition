@@ -10,7 +10,6 @@ _Note: This edition wouldn't be possible with out the work of all the prviacy aw
 This section goes through the various things that I've done to the Windows ISO to make it lighter and run better. I did keep gaming in mind when creating this ISO, so I kept .NET 3.5 installed. I used [Major Geeks WinToolKit](https://www.majorgeeks.com/files/details/win_toolkit.html) Component Remover to remove a lot of the following useless components. For the in-depth list of everything that I removed, you can read the [Removed Components Log](https://github.com/TheArchyvist/Windows-10-Awesome-Edition/wiki/Removed-Components-Log)
 
 ### Categories
-* Acessories
 * Networking
 * Mobile PC
 * Printing
