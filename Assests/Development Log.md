@@ -1,4 +1,5 @@
 # Windows 10 Awesome Edition Development Log
+![](https://github.com/TheArchyvist/Windows-10-Awesome-Edition/blob/main/Assests/Windows%2010%20Awesome%20Edition.png)
 
 ## Windows 10 - Awesome Edition
 ### Update 1 - January 14th, 2021
@@ -24,7 +25,9 @@
 * Created Custom ISO based off of that single condensed WIM
 * Created Virutal Box Machine for testing
 * Attempted to Run Custom ISO, and received a "VEER" error.
+
 ### Update 3 - January 19th, 2001 ((9:15 PM)
 **Version:** Windows 10 - Awesome Edition - Test v.3.iso
 * ISO was exported.
 * Removed Unattended.xml from root folder of ISO.
+
