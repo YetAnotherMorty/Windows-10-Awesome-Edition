@@ -7,7 +7,7 @@ Don't trust this Custom ISO? Follow my [**step-by-step guide**](https://github.c
 _Note: This edition wouldn't be possible with out the work of all the prviacy aware tech-enthusiasts out there, so be sure to check out the sources portion of this readme to see my original sources!_
 
 ## Removed Components
-This section goes through the various things that I've done to the Windows ISO to make it lighter and run better. I did keep gaming in mind when creating this ISO, so I kept .NET 3.5 installed. I used [Major Geeks WinToolKit](https://www.majorgeeks.com/files/details/win_toolkit.html) Component Remover to remove a lot of the following useless components. For the in-depth list of everything that I removed, you can read the [Removed Components Log](https://github.com/TheArchyvist/Windows-10-Awesome-Edition/wiki/Removed-Components-Log)
+This section goes through the various things that I've done to the Windows ISO to make it lighter and run better. I did keep gaming in mind when creating this ISO, so I kept .NET 3.5 installed. I used [Major Geeks WinToolKit](https://www.majorgeeks.com/files/details/win_toolkit.html) Component Remover to remove a lot of the following useless components. For the in-depth list of everything that I removed, you can read the [Removed Components Log](https://github.com/TheArchyvist/Windows-10-Awesome-Edition/wiki/Removed-Components-Log) for a more detailed entry. You can also view the [Development Log](https://github.com/TheArchyvist/Windows-10-Awesome-Edition/blob/main/Assests/Development%20Log.md) to keep up with the development of the release!
 
 ### Categories
 * Networking
